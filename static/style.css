@@ -1,0 +1,12 @@
+.main-theme {
+    color: #0dcaf0;
+}
+.centred {
+    text-align: center;
+}
+.flex-1 {
+    flex: 1;
+}
+.flex-2 {
+    display: flex;
+}
